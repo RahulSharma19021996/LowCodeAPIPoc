@@ -1,0 +1,1 @@
+[{"outputFields":"data.year=2001","method":"GET","resource":"api","availableParams":[{"parameterType":"HEADER_PARAM","value":"application/json","key":"contentType"}],"type":"REST","contentType":"application/json","scenarioId":"FirstAPITest","url":"/api/unknown/2","httpStatusCode":"200"}]
